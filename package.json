@@ -4,7 +4,7 @@
   "description": "Registers the enzyme adapter for react",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "echo 'No tests' && exit 0"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/MashupMill/enzyme-adapter-react-register#readme",
   "devDependencies": {
-    "mocha": "^5.0.4"
   },
   "dependencies": {
     "enzyme-adapter-react-helper": "^1.2.3"
